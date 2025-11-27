@@ -1,0 +1,1 @@
+INSERT INTO planets (name, description, circumference) VALUES ('Mars', 'The planet Mars is half the size of the Earth.', 21344);

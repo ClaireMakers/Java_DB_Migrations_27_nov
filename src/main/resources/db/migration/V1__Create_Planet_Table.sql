@@ -1,0 +1,1 @@
+CREATE TABLE planets (id SERIAL PRIMARY KEY, name TEXT, description TEXT, circumference INT);
